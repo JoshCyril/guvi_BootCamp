@@ -6,9 +6,9 @@ Print the current weather data in console- By lat lang [✔ Link]()
 
 ## Do the below programs in anonymous function and IIFE
 
-   - Print odd numbers in an array [✔ Link]()
+   - Print odd numbers in an array [🔽 Snippet Code](#1-print-odd-numbers-in-an-array)
 
-   - Convert all the strings to title caps in a string array [✔ Link]()
+   - Convert all the strings to title caps in a string array [🔽 Snippet Code]()
 
    - Sum of all numbers in an array [✔ Link]()
 
