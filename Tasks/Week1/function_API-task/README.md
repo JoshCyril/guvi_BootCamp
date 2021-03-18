@@ -4,18 +4,18 @@ Generate an API key with given link below https://openweathermap.org/guide Print
 
 ## Do the below programs in anonymous function and IIFE
 
-    - Print odd numbers in an array [✔ Link]()
+   - Print odd numbers in an array [✔ Link]()
 
-    - Convert all the strings to title caps in a string array [✔ Link]()
+   - Convert all the strings to title caps in a string array [✔ Link]()
 
-    - Sum of all numbers in an array [✔ Link]()
+   - Sum of all numbers in an array [✔ Link]()
 
-    - Return all the prime numbers in an array [✔ Link]()
+   - Return all the prime numbers in an array [✔ Link]()
 
-    - Return all the palindromes in an array [✔ Link]()
+   - Return all the palindromes in an array [✔ Link]()
 
-    - Return median of two sorted arrays of same size [✔ Link]()
+   - Return median of two sorted arrays of same size [✔ Link]()
 
-    - Remove duplicates from an array [✔ Link]()
+   - Remove duplicates from an array [✔ Link]()
 
-    - Rotate an array by k times and return the rotated array. [✔ Link]()
+   - Rotate an array by k times and return the rotated array. [✔ Link]()
