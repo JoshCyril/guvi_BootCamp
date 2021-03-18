@@ -38,7 +38,7 @@ Print the current weather data in console- By lat lang
     })
    ```
    Output:
-   ![Output png](output/weatherApi.png)
+   
    <img src="output/weatherApi.png" alt="Output" width="70%">
    
 
