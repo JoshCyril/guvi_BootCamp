@@ -6,4 +6,4 @@
   - [API](Week1/api_task/README.md)
   - [Function and API](Week1/function_API-task/README.md)
   ---
-#### Week2 [>>](Week2/README.md)
+#### Week 2 [>>](Week2/README.md)
