@@ -5,7 +5,7 @@
    - Load the rest countries' data using your HTML and script.js file and run a for loop on the data and print all the country names in the console.
       > [✔ View Full File]()
     
-      > [🔽 Snippet Code Below]()
+      > [🔽 Snippet Code Below](#rest-countries-api)
 ## Blog Write-up
 
    - Give a write-up on the Difference between copy by value and copy by reference. [✔ Link]()
