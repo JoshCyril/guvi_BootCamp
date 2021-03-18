@@ -43,7 +43,7 @@ Print the current weather data in console- By lat lang [✔ Link]()
    
    > Output
    
-   > ![Output Png](output/OddArr.png)
+   ![Output Png](output/OddArr.png)
 
 ---
 ### 2. Convert all the strings to title caps in a string array
