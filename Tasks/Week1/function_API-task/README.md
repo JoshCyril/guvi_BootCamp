@@ -59,4 +59,4 @@ Print the current weather data in console- By lat lang [✔ Link]()
    
    > Output
    
-   > ![Output Png](output/TitleCaps.png)
+   ![Output Png](output/TitleCaps.png)
