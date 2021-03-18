@@ -39,7 +39,7 @@ Print the current weather data in console- By lat lang [✔ Link]()
     return (newArray.slice(0,-1));
    };
    ```
-   > [Read More](findOddrEven.js)
+   > [Read More](findOddrEven.js)   [⬆ Top](#do-the-below-programs-in-anonymous-function-and-iife)
    
    > Output
    
@@ -55,7 +55,7 @@ Print the current weather data in console- By lat lang [✔ Link]()
          }).join(' ');
       };
    ```
-   > [Read More](titleCaps.js)
+   > [Read More](titleCaps.js)   [⬆ Top](#do-the-below-programs-in-anonymous-function-and-iife)
    
    > Output
    
