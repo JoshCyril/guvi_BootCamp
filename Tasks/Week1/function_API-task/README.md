@@ -10,17 +10,17 @@ Print the current weather data in console- By lat lang [✔ Link]()
 
    2. Convert all the strings to title caps in a string array [🔽 Snippet Code](#2-convert-all-the-strings-to-title-caps-in-a-string-array)
 
-   3. Sum of all numbers in an array [✔ Link]()
+   3. Sum of all numbers in an array [🔽 Snippet Code](#3-sum-of-all-numbers-in-an-array)
 
-   4. Return all the prime numbers in an array [✔ Link]()
+   4. Return all the prime numbers in an array [🔽 Snippet Code](#4-return-all-the-prime-numbers-in-an-array)
 
-   5. Return all the palindromes in an array [✔ Link]()
+   5. Return all the palindromes in an array [🔽 Snippet Code](#5-return-all-the-palindromes-in-an-array)
 
-   6. Return median of two sorted arrays of same size [✔ Link]()
+   6. Return median of two sorted arrays of same size [🔽 Snippet Code](#6-return-median-of-two-sorted-arrays-of-same-size)
 
-   7. Remove duplicates from an array [✔ Link]()
+   7. Remove duplicates from an array [🔽 Snippet Code](#7-remove-duplicates-from-an-array)
 
-   8. Rotate an array by k times and return the rotated array. [✔ Link]()
+   8. Rotate an array by k times and return the rotated array. [🔽 Snippet Code](#8-rotate-an-array-by-k-times-and-return-the-rotated-array)
 
 ---
    
