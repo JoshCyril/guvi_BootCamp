@@ -29,4 +29,4 @@
    
    ### Output
    
-   ![image](Rest%20Country/output.png)
+   <img src="Rest%20Country/output.png" width="70%">
