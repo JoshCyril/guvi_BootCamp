@@ -6,21 +6,21 @@ Print the current weather data in console- By lat lang [✔ Link]()
 
 ## Do the below programs in anonymous function and IIFE
 
-   1. Print odd numbers in an array [🔽 Snippet Code](#1-print-odd-numbers-in-an-array)
+   1. Print odd numbers in an array [🔽 Code Snippet](#1-print-odd-numbers-in-an-array)
 
-   2. Convert all the strings to title caps in a string array [🔽 Snippet Code](#2-convert-all-the-strings-to-title-caps-in-a-string-array)
+   2. Convert all the strings to title caps in a string array [🔽 Code Snippet](#2-convert-all-the-strings-to-title-caps-in-a-string-array)
 
-   3. Sum of all numbers in an array [🔽 Snippet Code](#3-sum-of-all-numbers-in-an-array)
+   3. Sum of all numbers in an array [🔽 Code Snippet](#3-sum-of-all-numbers-in-an-array)
 
-   4. Return all the prime numbers in an array [🔽 Snippet Code](#4-return-all-the-prime-numbers-in-an-array)
+   4. Return all the prime numbers in an array [🔽 Code Snippet](#4-return-all-the-prime-numbers-in-an-array)
 
-   5. Return all the palindromes in an array [🔽 Snippet Code](#5-return-all-the-palindromes-in-an-array)
+   5. Return all the palindromes in an array [🔽 Code Snippet](#5-return-all-the-palindromes-in-an-array)
 
-   6. Return median of two sorted arrays of same size [🔽 Snippet Code](#6-return-median-of-two-sorted-arrays-of-same-size)
+   6. Return median of two sorted arrays of same size [🔽 Code Snippet](#6-return-median-of-two-sorted-arrays-of-same-size)
 
-   7. Remove duplicates from an array [🔽 Snippet Code](#7-remove-duplicates-from-an-array)
+   7. Remove duplicates from an array [🔽 Code Snippet](#7-remove-duplicates-from-an-array)
 
-   8. Rotate an array by k times and return the rotated array. [🔽 Snippet Code](#8-rotate-an-array-by-k-times-and-return-the-rotated-array)
+   8. Rotate an array by k times and return the rotated array. [🔽 Code Snippet](#8-rotate-an-array-by-k-times-and-return-the-rotated-array)
 
 ---
    
