@@ -1,5 +1,5 @@
-# guvi_BootCamp
-JS Boot-Camp from March-May
+# Guvi BootCamp
+JS Full-Stack BootCamp from March-May 2021
 
 ---
 
