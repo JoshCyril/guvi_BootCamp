@@ -21,3 +21,38 @@ Print the current weather data in console- By lat lang [✔ Link]()
    - Remove duplicates from an array [✔ Link]()
 
    - Rotate an array by k times and return the rotated array. [✔ Link]()
+   
+   
+### 1. Print odd numbers in an array
+   
+   ```js
+    let findOddrEven= function(array){
+    len= array.length;
+    let newArray=[];
+    for(i=0;i<len;i++){
+        if(!isNaN(array[i])){
+            if(array[i]%2 !== 0){
+                newArray+= array[i]+' ';
+            }
+        }
+    }
+    return (newArray.slice(0,-1));
+   };
+   ```
+   > [Read More](findOddrEven.js)
+   
+   > Output
+   
+   > ![Output Png](output/OddArr.png)
+
+---
+### 2. Convert all the strings to title caps in a string array
+   
+   ```js
+   
+   ```
+   > [Read More]()
+   
+   > Output
+   
+   > ![Output Png]()
