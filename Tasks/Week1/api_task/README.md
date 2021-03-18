@@ -14,6 +14,7 @@
 
 ---
    ## Rest countries' API
+   `https://restcountries.eu/rest/v2/all` HTTP end point
    ```js
    request.onload = function() {
 
