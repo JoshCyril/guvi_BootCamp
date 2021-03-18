@@ -3,8 +3,8 @@
 Generate an API key with (https://openweathermap.org/guide)
 
 Print the current weather data in console- By lat lang 
-   - [✔ Source Code](weatherAPI)
-   - [🔽 View Code Snippet](#-function-api)
+   > [✔ Source Code](weatherAPI)
+   > [🔽 View Code Snippet](#-function-api)
 
 ## Do the below programs in anonymous function and IIFE
 
