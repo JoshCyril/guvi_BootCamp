@@ -6,22 +6,23 @@ Print the current weather data in console- By lat lang [✔ Link]()
 
 ## Do the below programs in anonymous function and IIFE
 
-   - Print odd numbers in an array [🔽 Snippet Code](#1-print-odd-numbers-in-an-array)
+   1. Print odd numbers in an array [🔽 Snippet Code](#1-print-odd-numbers-in-an-array)
 
-   - Convert all the strings to title caps in a string array [🔽 Snippet Code](#2-convert-all-the-strings-to-title-caps-in-a-string-array)
+   2. Convert all the strings to title caps in a string array [🔽 Snippet Code](#2-convert-all-the-strings-to-title-caps-in-a-string-array)
 
-   - Sum of all numbers in an array [✔ Link]()
+   3. Sum of all numbers in an array [✔ Link]()
 
-   - Return all the prime numbers in an array [✔ Link]()
+   4. Return all the prime numbers in an array [✔ Link]()
 
-   - Return all the palindromes in an array [✔ Link]()
+   5. Return all the palindromes in an array [✔ Link]()
 
-   - Return median of two sorted arrays of same size [✔ Link]()
+   6. Return median of two sorted arrays of same size [✔ Link]()
 
-   - Remove duplicates from an array [✔ Link]()
+   7. Remove duplicates from an array [✔ Link]()
 
-   - Rotate an array by k times and return the rotated array. [✔ Link]()
-   
+   8. Rotate an array by k times and return the rotated array. [✔ Link]()
+
+---
    
 ### 1. Print odd numbers in an array
    
@@ -39,20 +40,24 @@ Print the current weather data in console- By lat lang [✔ Link]()
     return (newArray.slice(0,-1));
    };
    ```
-   > [Read More](findOddrEven.js)
+   > [Read More](findOddrEven.js)   
    
-   > Output
+   > Output [⬆ Top](#do-the-below-programs-in-anonymous-function-and-iife)
    
-   ![Output Png](output/OddArr.png)
+   ![Output Png](output/OddArr.png) 
 
 ---
 ### 2. Convert all the strings to title caps in a string array
    
    ```js
-   
+      let titleCaps = function (array) {
+         return array.toLowerCase().split(' ').map(function(word) {
+            return (word.charAt(0).toUpperCase() + word.slice(1));
+         }).join(' ');
+      };
    ```
-   > [Read More]()
+   > [Read More](titleCaps.js)   
    
-   > Output
+   > Output [⬆ Top](#do-the-below-programs-in-anonymous-function-and-iife)
    
-   > ![Output Png]()
+   ![Output Png](output/TitleCaps.png)
