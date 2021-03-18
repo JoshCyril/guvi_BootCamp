@@ -3,7 +3,7 @@
 ## Blog write up
 https://joshcyril2guvi.blogspot.com
 
- - 1. Difference between HTTP1. 1 vs HTTP2 ![Link✔](https://joshcyril2guvi.blogspot.com/p/difference-between-http11-vs-http2.html)
+ - 1. Difference between HTTP1. 1 vs HTTP2 [Link✔](https://joshcyril2guvi.blogspot.com/p/difference-between-http11-vs-http2.html)
 
  - 2. HTTP version history
 
