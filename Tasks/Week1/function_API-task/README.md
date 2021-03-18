@@ -8,7 +8,7 @@ Print the current weather data in console- By lat lang [✔ Link]()
 
    - Print odd numbers in an array [🔽 Snippet Code](#1-print-odd-numbers-in-an-array)
 
-   - Convert all the strings to title caps in a string array [🔽 Snippet Code]()
+   - Convert all the strings to title caps in a string array [🔽 Snippet Code](#2-convert-all-the-strings-to-title-caps-in-a-string-array)
 
    - Sum of all numbers in an array [✔ Link]()
 
