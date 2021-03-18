@@ -21,7 +21,8 @@ Print the current weather data in console- By lat lang [✔ Link]()
    7. Remove duplicates from an array [✔ Link]()
 
    8. Rotate an array by k times and return the rotated array. [✔ Link]()
-   
+
+---
    
 ### 1. Print odd numbers in an array
    
@@ -39,11 +40,11 @@ Print the current weather data in console- By lat lang [✔ Link]()
     return (newArray.slice(0,-1));
    };
    ```
-   > [Read More](findOddrEven.js)   [⬆ Top](#do-the-below-programs-in-anonymous-function-and-iife)
+   > [Read More](findOddrEven.js)   
    
-   > Output
+   > Output [⬆ Top](#do-the-below-programs-in-anonymous-function-and-iife)
    
-   ![Output Png](output/OddArr.png)
+   ![Output Png](output/OddArr.png) 
 
 ---
 ### 2. Convert all the strings to title caps in a string array
@@ -55,8 +56,8 @@ Print the current weather data in console- By lat lang [✔ Link]()
          }).join(' ');
       };
    ```
-   > [Read More](titleCaps.js)   [⬆ Top](#do-the-below-programs-in-anonymous-function-and-iife)
+   > [Read More](titleCaps.js)   
    
-   > Output
+   > Output [⬆ Top](#do-the-below-programs-in-anonymous-function-and-iife)
    
    ![Output Png](output/TitleCaps.png)
