@@ -3,7 +3,7 @@
 ## API Call  
 
    - Load the rest countries' data using your HTML and script.js file and run a for loop on the data and print all the country names in the console.
-      > [✔ View Full File]()
+      > [✔ View Full File](Rest%20Country)
     
       > [🔽 Snippet Code Below](#rest-countries-api)
 ## Blog Write-up
