@@ -2,7 +2,9 @@
 
 Generate an API key with (https://openweathermap.org/guide)
 
-Print the current weather data in console- By lat lang [✔ Link]()
+Print the current weather data in console- By lat lang 
+   - [✔ Source Code](weatherAPI)
+   - [🔽 View Code Snippet](#-function-api)
 
 ## Do the below programs in anonymous function and IIFE
 
@@ -21,6 +23,23 @@ Print the current weather data in console- By lat lang [✔ Link]()
    7. Remove duplicates from an array [🔽 Code Snippet](#7-remove-duplicates-from-an-array)
 
    8. Rotate an array by k times and return the rotated array. [🔽 Code Snippet](#8-rotate-an-array-by-k-times-and-return-the-rotated-array)
+
+---
+### Function API
+   
+   ```js
+      fetch('https://api.openweathermap.org/data/2.5/weather?lat='+ latt +'&lon='+ longn +'&appid=' + key)  
+    .then(function(resp) { return resp.json() }) // Convert data to json
+    .then(function(data) {
+      console.log(data.weather[0].main);
+      console.log(data);
+      alert("City:  "+data.name+" |  Weather: "+data.weather[0].main);
+    })
+   ```
+   Output:
+   ![Output png](output/weatherApi.png)
+   <img src="output/weatherApi.png" alt="Output" width="70%">
+   
 
 ---
    
@@ -42,7 +61,7 @@ Print the current weather data in console- By lat lang [✔ Link]()
    ```
    > [Read More](findOddrEven.js)   
    
-   > Output 
+   Output:
    
    ![Output Png](output/OddArr.png) [Top ⬆ ](#do-the-below-programs-in-anonymous-function-and-iife)
 
@@ -58,7 +77,7 @@ Print the current weather data in console- By lat lang [✔ Link]()
    ```
    > [Read More](titleCaps.js)   
    
-   > Output
+   Output:
    
    ![Output Png](output/TitleCaps.png) [Top ⬆ ](#do-the-below-programs-in-anonymous-function-and-iife)
 
@@ -70,7 +89,7 @@ Print the current weather data in console- By lat lang [✔ Link]()
    ```
    > [Read More](arrSum.js)
    
-   > Output
+   Output:
    
    ![Output Png](output/arrSum.png) [Top ⬆ ](#do-the-below-programs-in-anonymous-function-and-iife)
 
@@ -87,7 +106,7 @@ Print the current weather data in console- By lat lang [✔ Link]()
    ```
    > [Read More](arrPrime.js)   
    
-   > Output
+   Output:
    
    ![Output Png](output/arrPrime.png) [Top ⬆ ](#do-the-below-programs-in-anonymous-function-and-iife)
 
@@ -115,7 +134,7 @@ Print the current weather data in console- By lat lang [✔ Link]()
    ```
    > [Read More](arrPalin.js)   
    
-   > Output
+   Output:
    
    ![Output Png](output/arrPalin.png) [Top ⬆ ](#do-the-below-programs-in-anonymous-function-and-iife)
    
@@ -132,7 +151,7 @@ Print the current weather data in console- By lat lang [✔ Link]()
    ```
    > [Read More](arrMedian.js)   
    
-   > Output 
+   Output: 
    
    ![Output Png](output/arrMedian.png) [Top ⬆ ](#do-the-below-programs-in-anonymous-function-and-iife)
 
@@ -146,7 +165,7 @@ Print the current weather data in console- By lat lang [✔ Link]()
    ```
    > [Read More](remDup.js)   
    
-   > Output
+   Output:
    
    ![Output Png](output/remDup.png) [Top ⬆ ](#do-the-below-programs-in-anonymous-function-and-iife)
 
@@ -162,6 +181,6 @@ Print the current weather data in console- By lat lang [✔ Link]()
    ```
    > [Read More](arrRot.js)   
    
-   > Output 
+   Output:
   
    ![Output Png](output/arrRot.png) [Top ⬆ ](#do-the-below-programs-in-anonymous-function-and-iife)
