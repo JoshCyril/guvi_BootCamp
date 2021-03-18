@@ -42,9 +42,9 @@ Print the current weather data in console- By lat lang [✔ Link]()
    ```
    > [Read More](findOddrEven.js)   
    
-   > Output [⬆ Top](#do-the-below-programs-in-anonymous-function-and-iife)
+   > Output 
    
-   ![Output Png](output/OddArr.png) 
+   ![Output Png](output/OddArr.png) [Top ⬆ ](#do-the-below-programs-in-anonymous-function-and-iife)
 
 ---
 ### 2. Convert all the strings to title caps in a string array
@@ -58,9 +58,9 @@ Print the current weather data in console- By lat lang [✔ Link]()
    ```
    > [Read More](titleCaps.js)   
    
-   > Output [⬆ Top](#do-the-below-programs-in-anonymous-function-and-iife)
+   > Output
    
-   ![Output Png](output/TitleCaps.png)
+   ![Output Png](output/TitleCaps.png) [Top ⬆ ](#do-the-below-programs-in-anonymous-function-and-iife)
 
 ---
 ### 3. Sum of all numbers in an array
@@ -70,9 +70,9 @@ Print the current weather data in console- By lat lang [✔ Link]()
    ```
    > [Read More](arrSum.js)
    
-   > Output [⬆ Top](#do-the-below-programs-in-anonymous-function-and-iife)
+   > Output
    
-   ![Output Png](output/arrSum.png) 
+   ![Output Png](output/arrSum.png) [Top ⬆ ](#do-the-below-programs-in-anonymous-function-and-iife)
 
 ---
 ### 4. Return all the prime numbers in an array
@@ -87,9 +87,9 @@ Print the current weather data in console- By lat lang [✔ Link]()
    ```
    > [Read More](arrPrime.js)   
    
-   > Output [⬆ Top](#do-the-below-programs-in-anonymous-function-and-iife)
+   > Output
    
-   ![Output Png](output/arrPrime.png) 
+   ![Output Png](output/arrPrime.png) [Top ⬆ ](#do-the-below-programs-in-anonymous-function-and-iife)
 
 ---
 ### 5. Return all the palindromes in an array
@@ -115,9 +115,9 @@ Print the current weather data in console- By lat lang [✔ Link]()
    ```
    > [Read More](arrPalin.js)   
    
-   > Output [⬆ Top](#do-the-below-programs-in-anonymous-function-and-iife)
+   > Output
    
-   ![Output Png](output/arrPalin.png) 
+   ![Output Png](output/arrPalin.png) [Top ⬆ ](#do-the-below-programs-in-anonymous-function-and-iife)
    
 ---
 ### 6. Return median of two sorted arrays of same size
@@ -132,9 +132,9 @@ Print the current weather data in console- By lat lang [✔ Link]()
    ```
    > [Read More](arrMedian.js)   
    
-   > Output [⬆ Top](#do-the-below-programs-in-anonymous-function-and-iife)
+   > Output 
    
-   ![Output Png](output/arrMedian.png) 
+   ![Output Png](output/arrMedian.png) [Top ⬆ ](#do-the-below-programs-in-anonymous-function-and-iife)
 
 ---
 ### 7. Remove duplicates from an array
@@ -146,9 +146,9 @@ Print the current weather data in console- By lat lang [✔ Link]()
    ```
    > [Read More](remDup.js)   
    
-   > Output [⬆ Top](#do-the-below-programs-in-anonymous-function-and-iife)
+   > Output
    
-   ![Output Png](output/remDup.png) 
+   ![Output Png](output/remDup.png) [Top ⬆ ](#do-the-below-programs-in-anonymous-function-and-iife)
 
 ---
 ### 8. Rotate an array by k times and return the rotated array
@@ -162,6 +162,6 @@ Print the current weather data in console- By lat lang [✔ Link]()
    ```
    > [Read More](arrRot.js)   
    
-   > Output [⬆ Top](#do-the-below-programs-in-anonymous-function-and-iife)
-   
-   ![Output Png](output/arrRot.png) 
+   > Output 
+  
+   ![Output Png](output/arrRot.png) [Top ⬆ ](#do-the-below-programs-in-anonymous-function-and-iife)
