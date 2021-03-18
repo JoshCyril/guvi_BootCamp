@@ -49,10 +49,14 @@ Print the current weather data in console- By lat lang [✔ Link]()
 ### 2. Convert all the strings to title caps in a string array
    
    ```js
-   
+      let titleCaps = function (array) {
+         return array.toLowerCase().split(' ').map(function(word) {
+            return (word.charAt(0).toUpperCase() + word.slice(1));
+         }).join(' ');
+      };
    ```
-   > [Read More]()
+   > [Read More](titleCaps.js)
    
    > Output
    
-   > ![Output Png]()
+   > ![Output Png](output/TitleCaps.png)
