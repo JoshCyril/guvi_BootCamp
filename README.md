@@ -7,10 +7,10 @@ JS Full-Stack BootCamp from March-May 2021
 
   ▶ [Week 1](Tasks/Week1)
 
-  - Week 2
+  - [ ] Week 2
 
-  - Week 3
+  - [ ] Week 3
 
-  - Week 4
+  - [ ] Week 4
 
-  - Week 5
+  - [ ] Week 5
