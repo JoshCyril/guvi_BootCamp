@@ -15,7 +15,7 @@
 ## Reference
   How to copy by value a composite datatype (array+objects).
    
-   > [🔽 Code Snippet & Explaination]()
+   > [🔽 Code Snippet & Explaination](#copy-by-value-a-composite-data-type)
 
 ---
    ## Rest countries' API
@@ -36,6 +36,8 @@
    
    <img src="Rest%20Country/output.png" width="70%">
    
+   [Top ⬆](#api-call)
+   ---
    
    ## Copy by value a composite data type?
    
@@ -54,7 +56,8 @@
    
    console.log(A, B) // [1, 2, 3] [1, 8, 3]
    ```
-    
+   [Top ⬆](#reference)
+   
    ### 2. Using the `Object.assign()` method.
    
    >The `Object.assign()` method copies all enumerable own properties from one or more source objects to a target object. It returns the target object. Note this will be a shallow copy.
@@ -67,10 +70,11 @@
    
    console.log(A, B) // [1, 2, 3] [1, 81, 3]
    ```
-    
+   [Top ⬆](#reference)
+   
    ### 3. Using the `JSON.stringify()` and `JSON.parse()` methods.
    
-   >The JSON object, available in all modern browsers, has two useful methods to deal with JSON-formatted content: parse and stringify. JSON.parse() takes a JSON string and transforms it into a JavaScript object. JSON.stringify() takes a JavaScript object and transforms it into a JSON string.Using JSON.parse() and JSON.stringify() for copy performs deep copy.
+   >The JSON object, available in all modern browsers, has two useful methods to deal with JSON-formatted content: parse and stringify. `JSON.parse()` takes a JSON string and transforms it into a JavaScript object. `JSON.stringify()` takes a JavaScript object and transforms it into a JSON string.Using `JSON.parse()` and `JSON.stringify()` for copy performs deep copy.
    ```js
    let A= [1, 2, 3];
    B= JSON.parse(JSON.stringify(A));
@@ -80,3 +84,4 @@
    
    console.log(A, B) // [1, 2, 3] [1, 88, 3]
    ```
+   [Top ⬆](#reference)
