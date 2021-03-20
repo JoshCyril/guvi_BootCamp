@@ -10,7 +10,7 @@
 ## Blog Write-up
   Give a write-up on the Difference between copy by value and copy by reference. 
    
-   > [✔ Vist Post](https://joshcyril2guvi.blogspot.com/2021/03/copy-by-value-vs-copy-by-reference.html)
+   > [✔ Visit Post](https://joshcyril2guvi.blogspot.com/2021/03/copy-by-value-vs-copy-by-reference.html)
 
 ## Reference
   How to copy by value a composite datatype (array+objects).
