@@ -35,3 +35,48 @@
    ### Output
    
    <img src="Rest%20Country/output.png" width="70%">
+   
+   
+   ## Copy by value a composite data type?
+   
+   There are **3 ways** to copy by value for composite data types.
+   
+   
+   ### 1. Using the spread `(...)` operator.
+   
+   >Spread operator allows an iterable to expand in places where 0+ arguments are expected. It is mostly used in the variable array where there is more than 1 values are expected. It allows us the privilege to obtain a list of parameters from an array.Using spread will clone your object. Note this will be a shallow copy.
+   ```js
+   let A= [1, 2, 3];
+   B= [...A];
+   
+   console.log(A, B) // [1, 2, 3] [1, 2, 3]
+   B[1]= 8;
+   
+   console.log(A, B) // [1, 2, 3] [1, 8, 3]
+   ```
+    
+   ### 2. Using the `Object.assign()` method.
+   
+   >The `Object.assign()` method copies all enumerable own properties from one or more source objects to a target object. It returns the target object. Note this will be a shallow copy.
+   ```js
+   let A= [1, 2, 3];
+   B= Object.assign([], A);
+   
+   console.log(A, B) // [1, 2, 3] [1, 2, 3]
+   B[1]= 81;
+   
+   console.log(A, B) // [1, 2, 3] [1, 81, 3]
+   ```
+    
+   ### 3. Using the `JSON.stringify()` and `JSON.parse()` methods.
+   
+   >The JSON object, available in all modern browsers, has two useful methods to deal with JSON-formatted content: parse and stringify. JSON.parse() takes a JSON string and transforms it into a JavaScript object. JSON.stringify() takes a JavaScript object and transforms it into a JSON string.Using JSON.parse() and JSON.stringify() for copy performs deep copy.
+   ```js
+   let A= [1, 2, 3];
+   B= JSON.parse(JSON.stringify(A));
+   
+   console.log(A, B) // [1, 2, 3] [1, 2, 3]
+   B[1]= 88;
+   
+   console.log(A, B) // [1, 2, 3] [1, 88, 3]
+   ```
