@@ -1,21 +1,21 @@
 # API Task
 
 ## API Call  
-
-   - Load the rest countries' data using your HTML and script.js file and run a for loop on the data and print all the country names in the console.
-      > [✔ View Source File](Rest%20Country)
+  🔸 Load the rest countries' data using your HTML and script.js file and run a for loop on the data and print all the country names in the console.
+      
+   > [✔ View Source File](Rest%20Country)
     
-      > [🔽 Code Snippet Below](#rest-countries-api)
-## Blog Write-up
-
-   - Give a write-up on the Difference between copy by value and copy by reference. 
+   > [🔽 Code Snippet Below](#rest-countries-api)
    
-      > [✔ Vist Post](https://joshcyril2guvi.blogspot.com/2021/03/copy-by-value-vs-copy-by-reference.html)
+## Blog Write-up
+ 🔸 Give a write-up on the Difference between copy by value and copy by reference. 
+   
+   > [✔ Vist Post](https://joshcyril2guvi.blogspot.com/2021/03/copy-by-value-vs-copy-by-reference.html)
 
 ## Reference
-   - How to copy by value a composite datatype (array+objects).
+ 🔸 How to copy by value a composite datatype (array+objects).
    
-      > [🔽 Code Snippet & Explaination]()
+   > [🔽 Code Snippet & Explaination]()
 
 ---
    ## Rest countries' API
