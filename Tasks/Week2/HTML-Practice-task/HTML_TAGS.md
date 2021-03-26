@@ -12,7 +12,9 @@
     </head>
 ```
 
-added `<body>`
+ ```HTML
+<body> <!--Added-->
+```
 
 ```HTML
   <div>
