@@ -47,6 +47,12 @@ added `<body>`
 ---
 
 3. Design a contact us form with all fields as required.
+<p class="codepen" data-height="411" data-theme-id="dark" data-default-tab="js,result" data-user="Josh_Cyril88" data-slug-hash="PobMzLG" style="height: 411px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="CP_value">
+  <span>See the Pen <a href="https://codepen.io/Josh_Cyril88/pen/PobMzLG">
+  CP_value</a> by Joshua Cyril (<a href="https://codepen.io/Josh_Cyril88">@Josh_Cyril88</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 ---
 
@@ -68,6 +74,47 @@ added `<body>`
   - MySQL
   - MongoDB
   - Cansandra
+
+```HTML
+<ul>
+      <li>
+        Programming Language
+        <ul>
+          <li>
+            JavaScript
+            <ol>
+              <li>Angular</li>
+              <li>React</li>
+              <li>Vue.js</li>
+            </ol>
+          </li>
+          <li>
+            Python
+            <ol>
+              <li>Django Framework</li>
+              <li>Flask Framework</li>
+            </ol>
+          </li>
+          <li>
+            Java
+            <ol>
+              <li>Spring</li>
+              <li>Maven</li>
+              <li>Hibernate</li>
+            </ol>
+          </li>
+        </ul>
+      </li>
+      <li>
+        Database
+        <ul>
+          <li>MySQL</li>
+          <li>MongoDB</li>
+          <li>Cansandra</li>
+        </ul>
+      </li>
+    </ul>
+```
 
 ---
 
