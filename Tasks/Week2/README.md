@@ -2,8 +2,8 @@
 
 ## 22nd March to 26th March
 
-    ✅  [HTML Practice Task]()
+   ✅  [HTML Practice Task]()
 
-    - [ ] [CSS Task Resume]()
+   - [ ] [CSS Task Resume]()
 
-    - [ ] [Task CSS Boostrap]()
+   - [ ] [Task CSS Boostrap]()
