@@ -146,6 +146,7 @@
 ---
 
 8. Use the table tag to design given image [Click here](https://www.bapugraphics.com/assets/img/port_upload_dir/table-4.jpg).
+   <img src="http://evc-cit.info/cit040/formguide/card_0.png" width="70%">
 
 ---
 
