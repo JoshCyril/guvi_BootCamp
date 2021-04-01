@@ -49,11 +49,47 @@
 ---
 
 3. Design a contact us form with all fields as required.
-<p class="codepen" data-height="411" data-theme-id="dark" data-default-tab="js,result" data-user="Josh_Cyril88" data-slug-hash="PobMzLG" style="height: 411px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="CP_value">
-  <span>See the Pen <a href="https://codepen.io/Josh_Cyril88/pen/PobMzLG">
-  CP_value</a> by Joshua Cyril (<a href="https://codepen.io/Josh_Cyril88">@Josh_Cyril88</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
+
+  <div class="codepen" data-height="383" data-theme-id="dark" data-default-tab="html,result" data-user="Josh_Cyril88" data-slug-hash="PobMzLG" data-prefill='{"title":"CP_value","tags":[],"scripts":[],"stylesheets":[]}'>
+  <pre data-lang="html"> &lt;form>
+      &lt;label for="Name">Name:&lt;/label>&lt;br />
+      &lt;input type="text" name="uname" value="" id="name" required/>&lt;br />
+
+      &lt;label for="password">Password:&lt;/labelName&lt;/label>&lt;br />
+      &lt;input type="password" name="pass" id="password" required/>&lt;br />
+      &lt;br />
+      &lt;input type="radio" id="male" name="gender" value="M" required>
+        &lt;label for="male">👦&lt;/label>
+      &lt;input type="radio" id="female" name="gender" value="F" required>
+        &lt;label for="male">👧&lt;/label>&lt;br />
+        &lt;br />
+
+    &lt;input type="checkbox" id="check-a" name="fruit" required>
+    &lt;label for="check-a">🍎 Apple&lt;/label>
+    &lt;br />
+    &lt;input type="checkbox" id="check-m" name="fruit">
+    &lt;label for="check-m">🥭 Mango&lt;/label>
+    &lt;br />
+    &lt;input type="checkbox" id="check-b" name="fruit">
+    &lt;label for="check-b">🍌 Banana&lt;/label>
+    &lt;br />
+    
+&lt;br />
+&lt;label for="cars">Choose a car 🚗:&lt;/label>
+
+&lt;select name="cars" id="cars" required>
+  &lt;option value="volvo" selected disabled>-- Select --&lt;/option>
+  &lt;option value="volvo" >Volvo&lt;/option>
+  &lt;option value="saab" >Saab&lt;/option>
+  &lt;option value="mercedes" >Mercedes&lt;/option>
+  &lt;option value="audi" >audi&lt;/option>Audi&lt;/option>
+&lt;/select>
+&lt;br />&lt;br />
+    &lt;input type="submit" value="✔ Submit">
+    &lt;input type="reset" value="🔄 Reset">
+    &lt;br />
+    &lt;!-- input button only text, button tag allows link, image, icon, text -->
+&lt;/form></pre></div>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 ---
