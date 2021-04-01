@@ -2,49 +2,49 @@
 
 1. Fix the bugs in below snippet
 
-  ```HTML
-      <html lang="en">
-      <head>
-          <title>Document
-              <body>
-                  guvi
-          </title>
-      </head>
-  ```
+    ```HTML
+        <html lang="en">
+        <head>
+            <title>Document
+                <body>
+                    guvi
+            </title>
+        </head>
+    ```
 
-  ```HTML
-  <body> <!--Added-->
-  ```
+    ```HTML
+    <body> <!--Added-->
+    ```
 
-  ```HTML
-    <div>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          <div>
-              <div>
-                  Guvi Geek Network
-              </div>
-          </body>
-      </html>
-  ```
+    ```HTML
+      <div>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            <div>
+                <div>
+                    Guvi Geek Network
+                </div>
+            </body>
+        </html>
+    ```
 
 2. Try the below one
 
-  ```HTML
-  <html lang="en">
-      <head>
-          <title>Document
-              <body>
-                  guvi
-      </head>
-      <div>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          <div>
-              <div>
-                  Guvi Geek Network
-              </div>
-          </body>
-      </html>
-  ```
+    ```HTML
+    <html lang="en">
+        <head>
+            <title>Document
+                <body>
+                    guvi
+        </head>
+        <div>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            <div>
+                <div>
+                    Guvi Geek Network
+                </div>
+            </body>
+        </html>
+    ```
 
 ---
 
@@ -131,14 +131,14 @@
 
 6. In the form, add two radio buttons with grouping them for employee type(Salaried and own business)
 
-  ```html
-  <form>
-    <input type="radio" id="salaried" name="employee-type" required />
-    <label for="salaried">💰 Salaried</label>
-    <input type="radio" id="own-business" name="employee-type" required />
-    <label for="own-business">💼 Own Business</label>
-  </form>
-  ```
+    ```html
+    <form>
+      <input type="radio" id="salaried" name="employee-type" required />
+      <label for="salaried">💰 Salaried</label>
+      <input type="radio" id="own-business" name="employee-type" required />
+      <label for="own-business">💼 Own Business</label>
+    </form>
+    ```
 
 ---
 
@@ -152,41 +152,41 @@
 
    <img src="https://www.bapugraphics.com/assets/img/port_upload_dir/table-4.jpg">
 
-  ```html
-  <table>
-    <thead>
-      <th rowspan="2">State of health</th>
-      <th colspan="2">Fasting Value</th>
-      <th>After Remainng</th>
-      <tr class="top">
-        <td>Fasting</td>
-        <td>Normal</td>
-        <td>Level</td>
-      </tr>
-    </thead>
+    ```html
+    <table>
+      <thead>
+        <th rowspan="2">State of health</th>
+        <th colspan="2">Fasting Value</th>
+        <th>After Remainng</th>
+        <tr class="top">
+          <td>Fasting</td>
+          <td>Normal</td>
+          <td>Level</td>
+        </tr>
+      </thead>
 
-    <tbody>
-      <tr>
-        <td>Healthy</td>
-        <td>70</td>
-        <td>100</td>
-        <td>less than 140</td>
-      </tr>
-      <tr>
-        <td>Pre- Diabetes</td>
-        <td>101</td>
-        <td>126</td>
-        <td>140 to 200</td>
-      </tr>
-      <tr>
-        <td>Diabetes</td>
-        <td>more than 126</td>
-        <td>Not Applicable</td>
-        <td>More than 200</td>
-      </tr>
-    </tbody>
-  </table>
-  ```
+      <tbody>
+        <tr>
+          <td>Healthy</td>
+          <td>70</td>
+          <td>100</td>
+          <td>less than 140</td>
+        </tr>
+        <tr>
+          <td>Pre- Diabetes</td>
+          <td>101</td>
+          <td>126</td>
+          <td>140 to 200</td>
+        </tr>
+        <tr>
+          <td>Diabetes</td>
+          <td>more than 126</td>
+          <td>Not Applicable</td>
+          <td>More than 200</td>
+        </tr>
+      </tbody>
+    </table>
+    ```
 
 ---
 
