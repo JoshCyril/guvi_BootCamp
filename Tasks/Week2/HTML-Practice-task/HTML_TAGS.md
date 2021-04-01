@@ -12,7 +12,7 @@
     </head>
 ```
 
- ```HTML
+```HTML
 <body> <!--Added-->
 ```
 
@@ -122,7 +122,9 @@
 
 5. Create an element that helps you to open the https://google.com in separate new tab.
 
-   `<a href link="http://google.com" target="newtab">`
+   ```html
+   <a href link="http://google.com" target="newtab"> `</a>
+   ```
 
 ---
 
