@@ -194,13 +194,13 @@
 
 ---
 
-7. Design form shown in the link [Image](http://evc-cit.info/cit040/formguide/card_0.png)
+7. Design form shown in the [Image](http://evc-cit.info/cit040/formguide/card_0.png)
 
    <img src="http://evc-cit.info/cit040/formguide/card_0.png">
 
 ---
 
-8. Use the table tag to design given image [Image](https://www.bapugraphics.com/assets/img/port_upload_dir/table-4.jpg).
+8. Use the table tag to design given [Image](https://www.bapugraphics.com/assets/img/port_upload_dir/table-4.jpg).
 
    <img src="https://www.bapugraphics.com/assets/img/port_upload_dir/table-4.jpg">
 
