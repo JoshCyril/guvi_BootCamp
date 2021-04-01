@@ -73,50 +73,51 @@
     2. Maven
     3. Hibernate
 - Database
+
   - MySQL
   - MongoDB
   - Cansandra
 
-```HTML
-<ul>
-      <li>
-        Programming Language
-        <ul>
-          <li>
-            JavaScript
-            <ol>
-              <li>Angular</li>
-              <li>React</li>
-              <li>Vue.js</li>
-            </ol>
-          </li>
-          <li>
-            Python
-            <ol>
-              <li>Django Framework</li>
-              <li>Flask Framework</li>
-            </ol>
-          </li>
-          <li>
-            Java
-            <ol>
-              <li>Spring</li>
-              <li>Maven</li>
-              <li>Hibernate</li>
-            </ol>
-          </li>
-        </ul>
-      </li>
-      <li>
-        Database
-        <ul>
-          <li>MySQL</li>
-          <li>MongoDB</li>
-          <li>Cansandra</li>
-        </ul>
-      </li>
-</ul>
-```
+  ```HTML
+  <ul>
+    <li>
+      Programming Language
+      <ul>
+        <li>
+          JavaScript
+          <ol>
+            <li>Angular</li>
+            <li>React</li>
+            <li>Vue.js</li>
+          </ol>
+        </li>
+        <li>
+          Python
+          <ol>
+            <li>Django Framework</li>
+            <li>Flask Framework</li>
+          </ol>
+        </li>
+        <li>
+          Java
+          <ol>
+            <li>Spring</li>
+            <li>Maven</li>
+            <li>Hibernate</li>
+          </ol>
+        </li>
+      </ul>
+    </li>
+    <li>
+      Database
+      <ul>
+        <li>MySQL</li>
+        <li>MongoDB</li>
+        <li>Cansandra</li>
+      </ul>
+    </li>
+  </ul>
+  ```
 
 ---
 
@@ -141,15 +142,51 @@
 
 ---
 
-7. Design form shown in the link (http://evc-cit.info/cit040/formguide/card_0.png)
+7. Design form shown in the link [Image](http://evc-cit.info/cit040/formguide/card_0.png)
 
    <img src="http://evc-cit.info/cit040/formguide/card_0.png">
 
 ---
 
-8. Use the table tag to design given image [Click here](https://www.bapugraphics.com/assets/img/port_upload_dir/table-4.jpg).
+8. Use the table tag to design given image [Image](https://www.bapugraphics.com/assets/img/port_upload_dir/table-4.jpg).
 
    <img src="https://www.bapugraphics.com/assets/img/port_upload_dir/table-4.jpg">
+
+```html
+<table>
+  <thead>
+    <th rowspan="2">State of health</th>
+    <th colspan="2">Fasting Value</th>
+    <th>After Remainng</th>
+    <tr class="top">
+      <td>Fasting</td>
+      <td>Normal</td>
+      <td>Level</td>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>Healthy</td>
+      <td>70</td>
+      <td>100</td>
+      <td>less than 140</td>
+    </tr>
+    <tr>
+      <td>Pre- Diabetes</td>
+      <td>101</td>
+      <td>126</td>
+      <td>140 to 200</td>
+    </tr>
+    <tr>
+      <td>Diabetes</td>
+      <td>more than 126</td>
+      <td>Not Applicable</td>
+      <td>More than 200</td>
+    </tr>
+  </tbody>
+</table>
+```
 
 ---
 
@@ -161,9 +198,9 @@
 
 - "HTML & CSS is awesome"
 
-```html
-<mark>HTML & CSS is awesome</mark>
-```
+  ```html
+  <mark>HTML & CSS is awesome</mark>
+  ```
 
 ---
 
