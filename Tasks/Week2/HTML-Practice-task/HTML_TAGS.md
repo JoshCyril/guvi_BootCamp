@@ -57,7 +57,7 @@
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
             <div>
             <div>
-                    Guvi Geek Network
+                Guvi Geek Network
             </div>
         </body>
         </html>
