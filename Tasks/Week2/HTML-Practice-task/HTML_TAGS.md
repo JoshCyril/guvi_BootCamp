@@ -50,8 +50,48 @@
 
 3. Design a contact us form with all fields as required.
 
-[Code Snipet](HTML-Practice-task/form3.html)
-[Preview](https://htmlpreview.github.io/?https://github.com/JPC8/guvi_BootCamp/blob/main/Tasks/Week2/HTML-Practice-task/form3.html)
+    ```html
+    <form>
+        <label for="Name">Name:</label><br />
+        <input type="text" name="uname" value="" id="name" required/><br />
+  
+        <label for="password">Password:</label>Name</label><br />
+        <input type="password" name="pass" id="password" required/><br />
+        <br />
+        <input type="radio" id="male" name="gender" value="M" required>
+          <label for="male">👦</label>
+        <input type="radio" id="female" name="gender" value="F" required>
+          <label for="male">👧</label><br />
+          <br />
+  
+      <input type="checkbox" id="check-a" name="fruit" required>
+      <label for="check-a">🍎 Apple</label>
+      <br />
+      <input type="checkbox" id="check-m" name="fruit">
+      <label for="check-m">🥭 Mango</label>
+      <br />
+      <input type="checkbox" id="check-b" name="fruit">
+      <label for="check-b">🍌 Banana</label>
+      <br />
+      
+  <br />
+  <label for="cars">Choose a car 🚗:</label>
+  
+  <select name="cars" id="cars" required>
+    <option value="volvo" selected disabled>-- Select --</option>
+    <option value="volvo" >Volvo</option>
+    <option value="saab" >Saab</option>
+    <option value="mercedes" >Mercedes</option>
+    <option value="audi" >audi</option>Audi</option>
+  </select>
+  <br /><br />
+      <input type="submit" value="✔ Submit">
+      <input type="reset" value="🔄 Reset">
+      <br />
+      <!-- input button only text, button tag allows link, image, icon, text -->
+  </form>
+    ```
+    [Preview](https://htmlpreview.github.io/?https://github.com/JPC8/guvi_BootCamp/blob/main/Tasks/Week2/HTML-Practice-task/form3.html)
 ---
 
 4. Use certain HTML elements to display the following in a HTML page.
