@@ -73,25 +73,24 @@
       <input type="checkbox" id="check-b" name="fruit">
       <label for="check-b">🍌 Banana</label>
       <br />
-      
-  <br />
-  <label for="cars">Choose a car 🚗:</label>
+      <br />
+      <label for="cars">Choose a car 🚗:</label>
   
-  <select name="cars" id="cars" required>
-    <option value="volvo" selected disabled>-- Select --</option>
-    <option value="volvo" >Volvo</option>
-    <option value="saab" >Saab</option>
-    <option value="mercedes" >Mercedes</option>
-    <option value="audi" >audi</option>Audi</option>
-  </select>
-  <br /><br />
+      <select name="cars" id="cars" required>
+        <option value="volvo" selected disabled>-- Select --</option>
+        <option value="volvo" >Volvo</option>
+        <option value="saab" >Saab</option>
+        <option value="mercedes" >Mercedes</option>
+        <option value="audi" >audi</option>Audi</option>
+      </select><br />
+      <br />
       <input type="submit" value="✔ Submit">
       <input type="reset" value="🔄 Reset">
       <br />
-      <!-- input button only text, button tag allows link, image, icon, text -->
-  </form>
+    </form>
     ```
-    [Preview](https://htmlpreview.github.io/?https://github.com/JPC8/guvi_BootCamp/blob/main/Tasks/Week2/HTML-Practice-task/form3.html)
+
+  [Preview](https://htmlpreview.github.io/?https://github.com/JPC8/guvi_BootCamp/blob/main/Tasks/Week2/HTML-Practice-task/form3.html)
 ---
 
 4. Use certain HTML elements to display the following in a HTML page.
