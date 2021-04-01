@@ -130,6 +130,15 @@
 
 6. In the form, add two radio buttons with grouping them for employee type(Salaried and own business)
 
+```html
+<form>
+  <input type="radio" id="salaried" name="employee-type" required />
+  <label for="salaried">💰 Salaried</label>
+  <input type="radio" id="own-business" name="employee-type" required />
+  <label for="own-business">💼 Own Business</label>
+</form>
+```
+
 ---
 
 7. Design form shown in the link (http://evc-cit.info/cit040/formguide/card_0.png)
@@ -147,6 +156,10 @@
 10. In your, HTML page add the below line and Highlight it without using any CSS.
 
 - "HTML & CSS is awesome"
+
+```html
+<mark>HTML & CSS is awesome</mark>
+```
 
 ---
 
