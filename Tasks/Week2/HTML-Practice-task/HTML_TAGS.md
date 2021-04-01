@@ -123,7 +123,7 @@
 5. Create an element that helps you to open the https://google.com in separate new tab.
 
    ```html
-   <a href link="http://google.com" target="newtab"> `</a>
+   <a href link="http://google.com" target="newtab"> Google </a>
    ```
 
 ---
