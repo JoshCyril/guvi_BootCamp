@@ -210,7 +210,7 @@
         <th rowspan="2">State of health</th>
         <th colspan="2">Fasting Value</th>
         <th>After Remainng</th>
-        <tr class="top">
+        <tr>
           <td>Fasting</td>
           <td>Normal</td>
           <td>Level</td>
@@ -243,6 +243,30 @@
 ---
 
 9. Write HTML input tags snippet to show default values for all Form elements.
+   
+    - `<input type="button">`
+    - `<input type="checkbox">`
+    - `<input type="color">`
+    - `<input type="date">`
+    - `<input type="datetime-local">`
+    - `<input type="email">`
+    - `<input type="file">`
+    - `<input type="hidden">`
+    - `<input type="image">`
+    - `<input type="month">`
+    - `<input type="number">`
+    - `<input type="password">`
+    - `<input type="radio">`
+    - `<input type="range">`
+    - `<input type="reset">`
+    - `<input type="search">`
+    - `<input type="submit">`
+    - `<input type="tel">`
+    - `<input type="text">`
+    - `<input type="time">`
+    - `<input type="url">`
+    - `<input type="week">`
+    > <img src="https://github.com/JPC8/guvi_BootCamp/blob/main/Tasks/Week2/HTML-Practice-task/5.png">
 
 ---
 
@@ -257,3 +281,69 @@
 ---
 
 11. Create an HTML page, which should contain all types of input elements.
+    ```html
+    <form>
+      <input type="button" value="Click Me" /><br />
+
+      Check Box<br />
+      <input type="checkbox" /> <br />
+
+      Pick a color<br />
+      <input type="color" /><br />
+
+      Select the date<br />
+      <input type="date" /> <br />
+
+      Select the Local Time date<br />
+      <input type="datetime-local" /><br />
+
+      Enter the Email<br />
+      <input type="email" /><br />
+
+      Choose a file<br />
+      <input type="file" /><br />
+
+      Hidden !<br />
+      <input type="hidden" /><br />
+
+      Upload a image<br />
+      <input type="image" /><br />
+
+      Enter the Month<br />
+      <input type="month" /><br />
+
+      Enter the Number<br />
+      <input type="number" /><br />
+
+      Enter the Password<br />
+      <input type="password" /><br />
+
+      Radio button<br />
+      <input type="radio" /><br />
+
+      Select the range<br />
+      <input type="range" /><br />
+
+      <input type="reset" /><br />
+
+      Search<br />
+      <input type="search" /><br />
+
+      <input type="submit" /><br />
+
+      Enter tel<br />
+      <input type="tel" /><br />
+
+      Enter your text<br />
+      <input type="text" /><br />
+
+      Enter the time<br />
+      <input type="time" /><br />
+
+      Enter the URL<br />
+      <input type="url" /><br />
+
+      Select the Week<br />
+      <input type="week" /><br />
+    </form>
+    ```
