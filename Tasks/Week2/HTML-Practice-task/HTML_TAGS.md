@@ -50,10 +50,6 @@
 
 3. Design a contact us form with all fields as required.
 
-  <iframe height="383" style="width: 100%;" scrolling="no" title="CP_value" src="https://codepen.io/Josh_Cyril88/embed/PobMzLG?height=383&theme-id=dark&default-tab=html,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/Josh_Cyril88/pen/PobMzLG'>CP_value</a> by Joshua Cyril
-  (<a href='https://codepen.io/Josh_Cyril88'>@Josh_Cyril88</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
 
 ---
 
