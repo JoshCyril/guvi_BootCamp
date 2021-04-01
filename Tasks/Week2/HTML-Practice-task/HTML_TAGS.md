@@ -50,7 +50,8 @@
 
 3. Design a contact us form with all fields as required.
 
-
+[Code Snipet](HTML-Practice-task/form3.html)
+[Preview](https://htmlpreview.github.io/?https://github.com/JPC8/guvi_BootCamp/blob/main/Tasks/Week2/HTML-Practice-task/form3.html)
 ---
 
 4. Use certain HTML elements to display the following in a HTML page.
