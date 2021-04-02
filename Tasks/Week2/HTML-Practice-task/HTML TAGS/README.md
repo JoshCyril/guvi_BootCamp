@@ -107,7 +107,7 @@
       <br />
     </form>
     ```
-    > [Preview](https://htmlpreview.github.io/?https://github.com/JPC8/guvi_BootCamp/blob/main/Tasks/Week2/HTML-Practice-task/form3.html)
+    > [Preview](https://htmlpreview.github.io/?https://github.com/JPC8/guvi_BootCamp/blob/main/Tasks/Week2/HTML-Practice-task/HTML%20TAGS/HTML%20Code/form_req.html)
 ---
 
 4. Use certain HTML elements to display the following in a HTML page.
@@ -197,7 +197,7 @@
 7. Design form shown in the [Image](http://evc-cit.info/cit040/formguide/card_0.png)
 
    <img src="http://evc-cit.info/cit040/formguide/card_0.png">
-   <img src="https://github.com/JPC8/guvi_BootCamp/blob/main/Tasks/Week2/HTML-Practice-task/mag-O-zine_output.png" width="41%">
+   <img src="https://github.com/JPC8/guvi_BootCamp/blob/main/Tasks/Week2/HTML-Practice-task/HTML%20TAGS/Output/mag-O-zine_output.png" width="40%">
 
    
    ```html
@@ -250,9 +250,9 @@
         </table>
      </div>
     ```
-   >[Read More](magozine.html)
+   >[Read More](HTML%20Code/magozine.html)
    
-   >[Preview](https://htmlpreview.github.io/?https://github.com/JPC8/guvi_BootCamp/blob/main/Tasks/Week2/HTML-Practice-task/magozine.html)
+   >[Preview](https://htmlpreview.github.io/?https://github.com/JPC8/guvi_BootCamp/blob/main/Tasks/Week2/HTML-Practice-task/HTML%20TAGS/HTML%20Code/magozine.html)
 
 ---
 
@@ -322,7 +322,7 @@
     - `<input type="time">`
     - `<input type="url">`
     - `<input type="week">`
-    > <img src="https://github.com/JPC8/guvi_BootCamp/blob/main/Tasks/Week2/HTML-Practice-task/5.png">
+    > <img src="https://github.com/JPC8/guvi_BootCamp/blob/main/Tasks/Week2/HTML-Practice-task/HTML%20TAGS/Output/Default_form.png">
 
 ---
 
