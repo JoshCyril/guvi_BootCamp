@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mag-O-Zine</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+        </style>
+    <style>
+        *{
+            padding: 0;
+            margin: 0;
+        }
+        th{
+            color:white;
+            background-color: red;
+            padding: 5px;
+            font-size: xx-large;
+        }
+        mag-head{
+            font-style: italic;
+            font-size:xx-large;
+        }
+        .table-style{
+            width: 80%;
+            table-layout:fixed;
+            border: 5px solid;
+            padding: 10px;
+        }
+        .input-font{
+            font-family: 'Cookie', cursive;
+            font-size:x-large;
+            font-weight:bold;
+            border:none;
+            border-bottom: 2.5px solid;
+            width: 90%;
+            text-align: center;
+        }
+        .bottom-text{
+            font-weight: bold;
+            font-size: larger;
+            padding-top: 8px;
+        }
+        .magozin-form{
+            position:absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+        }
+    </style>
+</head>
+<body>
+    <div class="magozin-form">
+        <table class="table-style">
+            <thead>
+                <th colspan="6">Yes! I want to subscribe to <mag-head>Mag-O-Zine</mag-head></th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td colspan="3"><input type="text" value="Joe" class="input-font"></td>
+                    <td colspan="3"><input type="text" value="Schmegeggie" class="input-font"></td>
+                </tr>
+                <tr>
+                    <td colspan="3">First Name</td>
+                    <td colspan="3">Last Name</td>
+                </tr>
+                <tr>
+                    <td colspan="6"><input type="text" value="1001 Washington Street" class="input-font"></td>
+                </tr>
+                <tr>
+                    <td colspan="6">Address</td>
+                </tr>
+                <tr>
+                    <td colspan="2"><input type="text" value="Antown" class="input-font"></td>
+                    <td colspan="2"><input type="text" value="CA" class="input-font"></td>
+                    <td colspan="2"><input type="number" value="99999" class="input-font" maxlength="6"></td>
+                </tr>
+                <tr>
+                    <td colspan="2">City</td>
+                    <td colspan="2">State</td>
+                    <td colspan="2">Zip</td>
+                </tr>
+                <tr>
+                    <td colspan="6" class="bottom-text">Subscribe for: <input type="checkbox"> 1 year ($19.95) <input type="checkbox"> 2 years ($35.00)</td>
+                </tr>
+                <tr>
+                    <td colspan="6" class="bottom-text">Send me more information about:</td>
+                </tr>
+                <tr>
+                    <td colspan="6" class="bottom-text"><input type="checkbox"> Computer-Zine</td>
+                </tr>
+                <tr>
+                    <td colspan="6" class="bottom-text"><input type="checkbox"> Fishing-Zine</td>
+                </tr>
+                <tr>
+                    <td colspan="6" class="bottom-text"><input type="checkbox"> Cat-O-Zine</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
