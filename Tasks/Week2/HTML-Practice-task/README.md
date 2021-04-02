@@ -2,8 +2,8 @@
 
 Question 1
 
-   ➤ [PAN TASK]()
+   ➤ [PAN TASK](PAN%20TASK/README.md)
 
 Question 2
 
-  ➤ [HTML TAGS](HTML_TAGS.md)
+  ➤ [HTML TAGS](HTML%20TAGS/README.md)
