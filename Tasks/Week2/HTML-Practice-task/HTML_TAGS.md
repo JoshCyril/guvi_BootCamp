@@ -197,6 +197,62 @@
 7. Design form shown in the [Image](http://evc-cit.info/cit040/formguide/card_0.png)
 
    <img src="http://evc-cit.info/cit040/formguide/card_0.png">
+   <img src="https://github.com/JPC8/guvi_BootCamp/blob/main/Tasks/Week2/HTML-Practice-task/mag-O-zine_output.png" width="41%">
+
+   
+   ```html
+    <div class="magozin-form">
+        <table class="table-style">
+            <thead>
+                <th colspan="6">Yes! I want to subscribe to <mag-head>Mag-O-Zine</mag-head></th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td colspan="3"><input type="text" value="Joe" class="input-font"></td>
+                    <td colspan="3"><input type="text" value="Schmegeggie" class="input-font"></td>
+                </tr>
+                <tr>
+                    <td colspan="3">First Name</td>
+                    <td colspan="3">First Name</td>
+                </tr>
+                <tr>
+                    <td colspan="6"><input type="text" value="1001 Washington Street" class="input-font"></td>
+                </tr>
+                <tr>
+                    <td colspan="6">Address</td>
+                </tr>
+                <tr>
+                    <td colspan="2"><input type="text" value="Antown" class="input-font"></td>
+                    <td colspan="2"><input type="text" value="CA" class="input-font"></td>
+                    <td colspan="2"><input type="number" value="99999" class="input-font" maxlength="6"></td>
+                </tr>
+                <tr>
+                    <td colspan="2">City</td>
+                    <td colspan="2">State</td>
+                    <td colspan="2">Zip</td>
+                </tr>
+                <tr>
+                    <td colspan="6" class="bottom-text">Subscribe for: <input type="checkbox"> 1 year ($19.95) <input type="checkbox"> 2 years ($35.00)</td>
+                </tr>
+                <tr>
+                    <td colspan="6" class="bottom-text">Send me more information about:</td>
+                </tr>
+                <tr>
+                    <td colspan="6" class="bottom-text"><input type="checkbox"> Computer-Zine</td>
+                </tr>
+                <tr>
+                    <td colspan="6" class="bottom-text"><input type="checkbox"> Fishing-Zine</td>
+                </tr>
+                <tr>
+                    <td colspan="6" class="bottom-text"><input type="checkbox"> Cat-O-Zine</td>
+                </tr>
+            </tbody>
+        </table>
+     </div>
+    ```
+   >[Read More](magozine.html)
+   
+   >[Preview](https://htmlpreview.github.io/?https://github.com/JPC8/guvi_BootCamp/blob/main/Tasks/Week2/HTML-Practice-task/magozine.html)
 
 ---
 
