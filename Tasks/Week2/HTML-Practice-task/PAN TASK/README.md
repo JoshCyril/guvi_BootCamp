@@ -1,6 +1,6 @@
 # PAN TASK:
 
-## Deployed URL ★ https://jpc8-pan.netlify.app
+## Hosted URL ★ https://jpc8-pan.netlify.app
 
 ### [Source Code](PAN) ★ 
 
