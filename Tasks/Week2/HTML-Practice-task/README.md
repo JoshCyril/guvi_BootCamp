@@ -2,10 +2,12 @@
 
 ## 22nd March 2021
 
-Question 1
+## Question 1
 
-   ➤ [PAN TASK](PAN%20TASK/README.md)
+###   ➤ [PAN TASK](PAN%20TASK/README.md)
+   
+   > Hosted URL ★ https://jpc8-pan.netlify.app
 
-Question 2
+## Question 2
 
-  ➤ [HTML TAGS](HTML%20TAGS/README.md)
+###  ➤ [HTML TAGS](HTML%20TAGS/README.md)
