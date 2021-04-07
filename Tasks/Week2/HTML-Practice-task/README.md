@@ -6,7 +6,7 @@
 
 ###   ➤ [PAN TASK](PAN%20TASK/README.md)
    
-   > Hosted URL ★ https://jpc8-pan.netlify.app
+   > Hosted URL ★ https://pan-jpc8.netlify.app/
 
 ## Question 2
 
