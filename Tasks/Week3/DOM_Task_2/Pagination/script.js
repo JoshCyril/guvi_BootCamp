@@ -1,5 +1,5 @@
 fetch(
-  "https://gist.githubusercontent.com/rvsp/add40254aa126f045837fa5b51f47f1f/raw/4d724bfabf4cce7379a386e23bef6576ab99a2f9/pagination.json"
+  "https://raw.githubusercontent.com/Rajavasanthan/jsondata/master/pagenation.json"
 )
   .then(function (resp) {
     return resp.json();
