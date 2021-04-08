@@ -9,10 +9,11 @@
 ## Promise fetch API
   - Get all countries
     - Name
+    - Flag
     - Captial
     - Region
     - Code
-  - Display the current weather with clicked.
+  - Display the current weather when clicked.
 
 ## Preview
 
