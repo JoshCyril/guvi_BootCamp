@@ -2,7 +2,7 @@
 
   > 7th April 2021
 
-## Hosted URL ★ https://counter-jpc8.netlify.app/
+## Hosted URL ★ https://country-weather-jpc8.netlify.app/
 
 > [Source Code](promise)
 
