@@ -9,7 +9,7 @@ JS Full-Stack BootCamp from March-May 2021
 
   ▶ [Week 2](Tasks/Week2) ➔ HTML/ CSS/ BootStrap
 
-  ▶ [Week 3](Tasks/Week3) ➔ DOM
+  ▶ [Week 3](Tasks/Week3) ➔ DOM/ CallBack/ Promise
 
   - [ ] Week 4
 
