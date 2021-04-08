@@ -1,6 +1,6 @@
 # DOM Task 2
 
-> 30th march 2021
+> 30th March 2021
 
 ### Pagination using DOM.
 
