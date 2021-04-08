@@ -4,7 +4,7 @@
 
 ## Hosted URL ★ https://counter-jpc8.netlify.app/
 
-> [Source Code](Counter-task)
+> [Source Code](promise)
 
 ## Promise fetch API
   - Get all countries
