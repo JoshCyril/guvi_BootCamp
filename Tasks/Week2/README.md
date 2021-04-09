@@ -4,6 +4,6 @@
 
    ✅  [HTML Practice Task](HTML-Practice-task)
 
-   - [ ] [CSS Task Resume](CSS-task-resume-1)
+   ✅  [CSS Task Resume](CSS-task-resume-1)
 
    - [ ] [Task CSS Boostrap](Task-CSS-Boostrap)
