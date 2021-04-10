@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b252a513-b0ee-4292-a1b9-10e800371949/deploy-status)](https://app.netlify.com/sites/counter-jpc8/deploys)
+
 # Call Back Task 1
 
   > 5th April 2021

@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0588ffd7-a5e2-40bc-98bc-14e110ccf812/deploy-status)](https://app.netlify.com/sites/pagination-jpc8/deploys)
+
 # DOM Task 2
 
 > 30th March 2021

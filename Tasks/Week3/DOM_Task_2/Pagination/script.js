@@ -23,6 +23,17 @@ function mainRun(data) {
   buildTable();
 }
 
+function buildTable() {
+  var table_container = document.querySelector("#table_container");
+  var item = pagination(state.table_data, state.page, state.rows);
+
+  var table_data = createTable(item.table_data);
+
+  table_container.appendChild(table_data);
+
+  pageButtons(item.pages);
+}
+
 function pagination(table_data, page, rows) {
   var start = (page - 1) * rows;
   var end = start + rows;
@@ -34,6 +45,46 @@ function pagination(table_data, page, rows) {
     table_data: trimData,
     pages: pages,
   };
+}
+
+function createTable(arr) {
+  var table = createEle(
+    "table",
+    "mt-3 table table-striped text-center",
+    "table_content"
+  );
+  var thead = createEle("thead", "bg-primary");
+  thead.style.color = 'white';
+  thead.style.textTransform = "Uppercase";
+  var tbody = document.createElement("tbody");
+
+  var th = document.createElement("tr");
+  var head = arr[0];
+  for (var key in head) {
+    var td = document.createElement("th");
+    td.innerHTML = key;
+
+    th.append(td);
+  }
+  thead.appendChild(th);
+  arr.forEach((obj) => {
+    var tr = document.createElement("tr");
+    for (var key in obj) {
+      var td = document.createElement("td");
+      td.innerHTML = obj[key];
+      tr.append(td);
+    }
+    tbody.appendChild(tr);
+  });
+  table.append(thead, tbody);
+  return table;
+}
+
+function createEle(element, eleClass = "", eleId = " ") {
+  var element = document.createElement(element);
+  element.setAttribute("class", eleClass);
+  element.setAttribute("id", eleId);
+  return element;
 }
 
 function pageButtons(pages) {
@@ -61,7 +112,7 @@ function pageButtons(pages) {
     "button",
     "btn btn-outline-primary list-group-item"
   );
-  pag_button_first.setAttribute("onclick", `index_pre(${state.page})`);
+  pag_button_first.setAttribute("onclick", `index_previ(${state.page})`);
   pag_button_first.innerHTML = "〈 Previous";
   pag_button_first.style.fontWeight = "bolder";
   var pag_button_last = createEle(
@@ -86,7 +137,7 @@ function pageButtons(pages) {
   pagination.append(pag_button_first, pag_button_last, div);
 }
 
-function index_pre(n) {
+function index_previ(n) {
   if (n > 1) {
     pagechange(n - 1);
   }
@@ -102,71 +153,4 @@ function pagechange(val) {
   table_container.innerHTML = "";
   state.page = Number(val);
   buildTable();
-}
-
-function buildTable() {
-  var table_container = document.querySelector("#table_container");
-  var item = pagination(state.table_data, state.page, state.rows);
-
-  var table_data = createTable(item.table_data);
-
-  table_container.appendChild(table_data);
-
-  pageButtons(item.pages);
-}
-
-function createEle(element, eleClass = "", eleId = " ") {
-  var element = document.createElement(element);
-  element.setAttribute("class", eleClass);
-  element.setAttribute("id", eleId);
-  return element;
-}
-function creatHead(element, arr) {
-  var tr = document.createElement(element);
-  for (let i = 0; i < arr.length; i++) {
-    var td_i = document.createElement("th");
-    td_i.innerHTML = arr[i];
-    tr.append(td_i);
-  }
-  return tr;
-}
-function createTable(arr) {
-  var table = createEle(
-    "table",
-    "mt-3 table table-striped text-center",
-    "table_content"
-  );
-  var thead = createEle("thead", "bg-primary");
-  thead.style.color = "#fff";
-  thead.style.textTransform = "Uppercase";
-  var tbody = document.createElement("tbody");
-
-  var th = document.createElement("tr");
-  var head = arr[0];
-  for (var key in head) {
-    var td = document.createElement("th");
-    td.innerHTML = key;
-
-    th.append(td);
-  }
-  thead.appendChild(th);
-  arr.forEach((obj) => {
-    var tr = document.createElement("tr");
-    for (var key in obj) {
-      var td = document.createElement("td");
-      td.innerHTML = obj[key];
-      tr.append(td);
-    }
-    tbody.appendChild(tr);
-  });
-  table.append(thead, tbody);
-  return table;
-}
-function function_list(obj) {
-  var head = obj;
-  var list_head_items = [];
-  for (var key in head) {
-    list_head_items.push(key);
-  }
-  return list_head_items;
 }
