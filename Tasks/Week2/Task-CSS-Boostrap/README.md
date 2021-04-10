@@ -1,6 +1,6 @@
 # CSS BootStrap
 
-> 24th March 2021
+> 25th March 2021
 
 ## Hosted URL ★ https://newspaper-jpc8.netlify.app/
 
