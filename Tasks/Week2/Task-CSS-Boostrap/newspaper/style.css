@@ -1,0 +1,97 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: "Ubuntu", sans-serif;
+}
+
+:root{
+    --ligth: #262626; 
+}
+
+.hr-line {
+	border-top: 2px solid var(--ligth);
+	width: 100%;
+	margin: 10px 0px;
+}
+
+.top-tag{
+    font-size: 1.5em;
+    margin: 5px 0px;
+}
+table{
+    width: 100%;
+}
+.container-fluid{
+    padding: 15px;
+}
+
+.head-tag{
+    font-size: 10em;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.spl-tag{
+    width: 100px;
+    height: 30px;
+    background-color: brown;
+    color: white;
+    font-style: italic;
+    padding: 3px 9px;
+    border-radius: 0px 10px 0px 0px;
+}
+
+.main-head{
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.sub-head{
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.body1-tag{
+    margin-top: 30px;
+}
+
+.heading2{
+    font-size: 2.5em;
+    font-weight: bold;
+    color: brown;
+    padding: 0px 25px;
+}
+
+.img-con {
+    position: relative;
+}
+
+.text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 30px;
+    width: 50%;
+    background-color: rgba(0, 0, 0, 0.2);
+    color: white;
+    padding:10px;
+    border-radius: 8px;
+}
+.button-block{
+    position: absolute;
+    right: 30px;
+    width: 60px;
+    height: 60px;
+    border-radius: 8px;
+    background-color: #2e2e2e;
+    color: white;
+    text-align: center;
+}
+
+.nor{
+    bottom: 50px;
+}
+
+.w-t{
+    bottom: 160px;
+}
