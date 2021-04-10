@@ -6,7 +6,7 @@
 
    ✅  [Callback Task 1](callback-task-1)
 
-   - [ ] [DOM Reacp Task](DOMreacp-task)
+   ✅  [DOM Reacp Task](DOMreacp-task)
    
    ✅  [Promise Task 2](promise-task-2)
    
