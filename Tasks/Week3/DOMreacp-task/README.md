@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c1db6f06-eb71-4d45-9c21-2efbff340717/deploy-status)](https://app.netlify.com/sites/form-dom-jpc8/deploys)
+
 # DOM Recap
 
 > 5th April 2021
