@@ -1,4 +1,3 @@
-const YOUR_API_KEY = "8bkh9Gd1MVsosGYI5mZAXpkYWfNzGhbl";
 //Bootstrap HTML elments
 const container = bootstrap("div", "container");
 // Top Header
