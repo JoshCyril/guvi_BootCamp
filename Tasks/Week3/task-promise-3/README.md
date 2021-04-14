@@ -11,7 +11,7 @@
 ## NY Times API
 
 - Current News.
-- display sub categories.
+- Display sub categories in nav tab.
 
 ## Preview
 
