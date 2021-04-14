@@ -4,7 +4,7 @@
 
 > 8th April 2021
 
-## Hosted URL ★ https://news-jpc8.netlify.app/
+## Hosted URL ★ https://news-jpc8.netlify.app
 
 > News Name: **Daily Aurora**
 
