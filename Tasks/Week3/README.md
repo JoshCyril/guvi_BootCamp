@@ -10,7 +10,7 @@
    
    ✅  [Promise Task 2](promise-task-2)
    
-   - [ ] [Task Promise 3](task-promise-3)
+   ✅  [Task Promise 3](task-promise-3)
    
    - [ ] [Task Promise 4](Task-promise-4)
    
