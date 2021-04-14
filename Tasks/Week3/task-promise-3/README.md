@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3324e586-9f77-4618-ae92-be1fef4ee96d/deploy-status)](https://app.netlify.com/sites/news-jpc8/deploys)
+
 # Promise NY Times
 
 > 8th April 2021
