@@ -17,8 +17,8 @@
 
 ## Preview
 
-![site1](https://github.com/JPC8/guvi_BootCamp/blob/main/Tasks/Week3/task-promise-3/Preview1.png)
+![site1](https://github.com/JPC8/guvi_BootCamp/blob/main/Tasks/Week3/Task-promise-4/Preview1.png)
 
-![site2](https://github.com/JPC8/guvi_BootCamp/blob/main/Tasks/Week3/task-promise-3/Preview2.png)
+![site2](https://github.com/JPC8/guvi_BootCamp/blob/main/Tasks/Week3/task-promise-4/Preview2.png)
 
-![site3](https://github.com/JPC8/guvi_BootCamp/blob/main/Tasks/Week3/task-promise-3/Preview3.png)
+![site3](https://github.com/JPC8/guvi_BootCamp/blob/main/Tasks/Week3/task-promise-4/Preview3.png)
