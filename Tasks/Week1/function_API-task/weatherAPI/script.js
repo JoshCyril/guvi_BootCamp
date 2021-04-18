@@ -1,5 +1,5 @@
 function weatherBalloon( latt, longn ) {
-    var key = 'adcc23c3b9f80e45999b1aa86a0f04a3';
+    var key = 'YOUR_API_KEY';
 
     fetch('https://api.openweathermap.org/data/2.5/weather?lat='+ latt +'&lon='+ longn +'&appid=' + key)  
     .then(function(resp) { return resp.json() }) // Convert data to json
