@@ -31,7 +31,7 @@
    > Hosted URL ★ https://news-jpc8.netlify.app
    <br>
    
-  ### ❎ [Task Promise 4](Task-promise-4)
+  ### ✅ [Task Promise 4](Task-promise-4)
      
    > Hosted URL ★ https://food-jpc8.netlify.app
    
