@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/49828052-0fc4-424c-bdd1-5475a5818837/deploy-status)](https://app.netlify.com/sites/food-jpc8/deploys)
+
 # Promise Food API
 
 > 9th April 2021
