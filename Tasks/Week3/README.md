@@ -1,4 +1,4 @@
-![Live Site](https://img.shields.io/badge/Site-Live-green)
+![Live Site](https://img.shields.io/badge/Site-Live-green) ![stats](https://img.shields.io/badge/Completed%20On-April-blue) 
 
 # Week 3
 
