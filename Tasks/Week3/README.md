@@ -1,4 +1,4 @@
-![Live Site](https://img.shields.io/badge/Site-Live-green)
+![Live Site](https://img.shields.io/badge/Site-Live-green) ![stats](https://img.shields.io/badge/Completed%20On-April-blue) 
 
 # Week 3
 
@@ -31,7 +31,7 @@
    > Hosted URL ★ https://news-jpc8.netlify.app
    <br>
    
-  ### ❎ [Task Promise 4](Task-promise-4)
+  ### ✅ [Task Promise 4](Task-promise-4)
      
    > Hosted URL ★ https://food-jpc8.netlify.app
    
