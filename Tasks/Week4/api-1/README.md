@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/033d8eb6-13c0-4af5-9a70-e5c1c5110844/deploy-status)](https://app.netlify.com/sites/country-weather-jpc8/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1f2883e4-5e31-4f05-b100-7de258a28d52/deploy-status)](https://app.netlify.com/sites/api1-jpc8/deploys)
 
 # API 1
 
