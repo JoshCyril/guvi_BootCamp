@@ -4,7 +4,7 @@
 
 > 27th April 2021
 
-## Hosted URL ★ https://pricing-jpc8.netlify.app/
+## Hosted URL ★ https://pricing-jpc8.netlify.app
 
 > [Source Code](Pricing-Card)
 
