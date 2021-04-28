@@ -15,7 +15,7 @@ JS Full-Stack BootCamp from March-May 2021
 
   ▶ [Week 5](Tasks/Week5) ➔ APIs/ Recap
 
-  - [ ] Week 6
+  ▶ [Week 6](Tasks/Week6) ➔ React 📘
   
   - [ ] Week 7
   
