@@ -11,9 +11,9 @@
 > Hosted URL ★ https://pricing-jpc8.netlify.app
 > <br/>
 
-### ✅ Add to Cart
+### ✅ [React Task 2](React-task-2) ⇒ Add to Cart
 
-> Hosted URL ★ !
+> Hosted URL ★ https://shopping-jpc8.netlify.app
 > <br>
 
 ### ▢ Admin Dashboard
