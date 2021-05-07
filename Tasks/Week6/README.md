@@ -8,10 +8,20 @@
 
 ### ✅ [React Task 1](React-task-1) ⇒ Pricing Cards
 
-> Hosted URL ★ https://pricing-jpc8.netlify.app 
-<br/>
+> Hosted URL ★ https://pricing-jpc8.netlify.app
+> <br/>
 
-### ▢ Add to Cart
+### ✅ Add to Cart
+
+> Hosted URL ★ !
+> <br>
+
+### ▢ Admin Dashboard
+
+> Hosted URL ★ !
+> <br>
+
+### ▢ Route
 
 > Hosted URL ★ !
 > <br>
