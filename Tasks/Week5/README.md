@@ -1,4 +1,4 @@
-![Live Site](https://img.shields.io/badge/Site-Ongoing-orange) <!--![stats](https://img.shields.io/badge/Completed%20On-April-blue) -->
+![Live Site](https://img.shields.io/badge/Site-Live-green) ![stats](https://img.shields.io/badge/Completed%20On-May-blue)
 
 # Week 5
 
@@ -8,5 +8,19 @@
 
 ### ✅ [API 1](api-1)
 
-> Hosted URL ★ https://api1-jpc8.netlify.app/
-> <br>
+> Hosted URL ★ https://api1-jpc8.netlify.app
+
+
+<br>
+
+### ✅ [API 2](api-2)
+
+> Hosted URL ★ https://webcheck-jpc8.netlify.app
+
+
+<br>
+
+### ✅ [API 3](api-3)
+
+> Hosted URL ★ https://yes-or-no-jpc8.netlify.app/
+<br>
