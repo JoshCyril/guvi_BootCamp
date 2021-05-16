@@ -19,3 +19,5 @@
 ## Preview
 
 ![site](https://github.com/JPC8/guvi_BootCamp/blob/main/Tasks/Week5/api-2/Preview1.png)
+
+![site](https://github.com/JPC8/guvi_BootCamp/blob/main/Tasks/Week5/api-2/Preview2.png)
