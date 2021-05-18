@@ -16,12 +16,27 @@
 > Hosted URL ★ https://shopping-jpc8.netlify.app
 > <br>
 
-### ▢ Admin Dashboard
+### ✅ [React Task 3](React-task-3) ⇒ Admin Dashboard
+
+> Hosted URL ★ https://admin-db-jpc8.netlify.app/ 
+> <br>
+
+### ▢ react-router-dom
 
 > Hosted URL ★ !
 > <br>
 
-### ▢ Route
+### ▢ profile name changes
+
+> Hosted URL ★ !
+> <br>
+
+### ▢ Axios
+
+> Hosted URL ★ !
+> <br>
+
+### ▢ CRUD for product with validation
 
 > Hosted URL ★ !
 > <br>
