@@ -23,7 +23,7 @@
 
 ### ▢ [React Task 4](React-task-4) ⇒ react-router-dom
 
-> Hosted URL ★ !
+> Hosted URL ★ https://admin2-jpc8.netlify.app/
  <br>
 
 ### ▢ [React Task 5](React-task-5) ⇒ profile name changes
