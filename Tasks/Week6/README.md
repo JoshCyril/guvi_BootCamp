@@ -28,12 +28,12 @@
 
 ### ✅ [React Task 5](React-task-5) ⇒ profile name changes
 
-> Hosted URL ★ !
+> Hosted URL ★ https://admin3-jpc8.netlify.app/
  <br>
 
 ### ✅ [React Task 6](React-task-6) ⇒ Axios
 
-> Hosted URL ★ !
+> Hosted URL ★ https://admin4-jpc8.netlify.app/
  <br>
 
 ### ✅ [React Task 7](React-task-7) ⇒ CRUD for product with validation
