@@ -38,4 +38,4 @@
 
 ### ✅ [React Task 7](React-task-7) ⇒ CRUD for product with validation
 
-> Hosted URL ★ !
+> Hosted URL ★ https://admin5-jpc8.netlify.app/
