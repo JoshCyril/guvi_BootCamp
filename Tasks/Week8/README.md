@@ -11,16 +11,12 @@
 > Hosted URL ★ https://files-structure-jpc8.herokuapp.com/
  <br/>
 
-### [ ] [Mentor & Student](Mentor-Student) ⇒ Database design for mentor and student
-
-> Hosted URL ★ https://shopping-jpc8.netlify.app
+### ✅ [Mentor & Student](Mentor-Student) ⇒ Database design for mentor and student
  <br>
 
-### [ ] [Auth & Password](Password) ⇒ Authentication & use of bcrypt for password
+### ✅ [Auth & Password](Password) ⇒ Authentication & use of bcrypt for password
 
-> Hosted URL ★ https://admin-db-jpc8.netlify.app/ 
+> Hosted URL ★ https://auth-pass-jpc8.netlify.app/
  <br>
 
-### [ ] [URL Shortener](URL-Shortener) ⇒ URL Shortener for any URL
-
-> Hosted URL ★ https://admin-db-jpc8.netlify.app/ 
+### ✅ [URL Shortener](URL-Shortener) ⇒ URL Shortener for any URL
