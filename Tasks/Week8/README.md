@@ -1,4 +1,4 @@
-![stats](https://img.shields.io/badge/Completed%20On-April-blue)
+![stats](https://img.shields.io/badge/Completed%20-blue)
 
 # Week 8
 
