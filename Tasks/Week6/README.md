@@ -1,4 +1,4 @@
-![Live Site](https://img.shields.io/badge/Site-Ongoing-orange) <!--![stats](https://img.shields.io/badge/Completed%20On-April-blue) -->
+![stats](https://img.shields.io/badge/Completed%20On-April-blue)
 
 # Week 6
 
@@ -26,16 +26,16 @@
 > Hosted URL ★ https://admin2-jpc8.netlify.app/
  <br>
 
-### ▢ [React Task 5](React-task-5) ⇒ profile name changes
+### ✅ [React Task 5](React-task-5) ⇒ profile name changes
 
 > Hosted URL ★ !
  <br>
 
-### ▢ [React Task 6](React-task-6) ⇒ Axios
+### ✅ [React Task 6](React-task-6) ⇒ Axios
 
 > Hosted URL ★ !
  <br>
 
-### ▢ [React Task 7](React-task-7) ⇒ CRUD for product with validation
+### ✅ [React Task 7](React-task-7) ⇒ CRUD for product with validation
 
 > Hosted URL ★ !
